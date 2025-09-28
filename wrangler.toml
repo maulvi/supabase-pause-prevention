@@ -1,4 +1,4 @@
 # wrangler.toml
 name = 'supabase'
 compatibility_flags = ["nodejs_compat"]
-main = "helper.ts"
+main = ./utils/supabase/server.ts
