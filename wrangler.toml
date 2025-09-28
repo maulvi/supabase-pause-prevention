@@ -1,3 +1,4 @@
 # wrangler.toml
 name = 'supabase'
 compatibility_flags = ["nodejs_compat"]
+"main": "./app/api/keep-alive"
